@@ -16,12 +16,25 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.support.ui.Select as Select
 
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://oneaccount.aksorn.com/register?client_id=38b0c553-0085-4e35-8059-00676d6c02af&redirect_uri=https%3A%2F%2Fwww.aksorn.com%2Fapi%2Foauth%2Fauthorize&response_type=code&scope=')
+
+selectedOptionText = WebUI.getText(findTestObject('NotHave'))
+
+WebUI.verifyEqual(selectedOptionText, 'ไม่ระบุ')
+
+brachtext = WebUI.getAttribute(findTestObject('NotHave2'), 'กรุณาเลือกรายการ')
+
+brachtext2 = WebUI.getAttribute(findTestObject('NotHave3'), 'ประเภทผู้ใช้งาน')
+
+brachtext3 = WebUI.getAttribute(findTestObject('NotHave4'), 'ปีเกิด')
+
+brachtext4 = WebUI.getAttribute(findTestObject('NotHave5'), 'คำนำหน้าชื่อ')
 
 WebUI.click(findTestObject('Object Repository/Page_Aksorn One Account/span_'))
 

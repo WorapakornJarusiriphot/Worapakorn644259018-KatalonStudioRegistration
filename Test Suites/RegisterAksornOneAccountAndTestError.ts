@@ -25,4 +25,11 @@
       <testCaseId>Test Cases/RegisterAksornOneAccount - TestError - OK</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>7f640e1e-dbf3-40b6-b0da-cdcbb2251658</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RegisterAksornOneAccount - TestErrorAll - OK</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
