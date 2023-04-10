@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__icon fa fa-check</name>
+   <tag></tag>
+   <elementGuidId>1d1f3b1d-c69e-4592-b780-07ccf5e004ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox-block > div.checkbox > label > span.checkbox-style > i.icon.fa.fa-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='signup']/div/div/div/div[2]/form/div[7]/div[2]/div/div/label/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>50bd904d-2e8b-4d0c-8cca-bacc468dc572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-check</value>
+      <webElementGuid>92c1ebc7-3368-447b-ac70-72032d54049a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>327c16fa-fbbb-43e8-af28-e0fd5e18510d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-offset-1 col-md-10&quot;]/div[@class=&quot;bg-transparent&quot;]/form[@class=&quot;ng-dirty ng-valid-parse ng-invalid ng-invalid-maxlength&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-input&quot;]/div[@class=&quot;checkbox-block&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;checkbox-style&quot;]/i[@class=&quot;icon fa fa-check&quot;]</value>
+      <webElementGuid>8f062614-72d5-498a-a126-dbf975405dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='signup']/div/div/div/div[2]/form/div[7]/div[2]/div/div/label/span/i</value>
+      <webElementGuid>2b3522be-e277-47df-96cc-c6303e46b7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/label/span/i</value>
+      <webElementGuid>1b739989-e7ed-454f-8a23-c1889be244a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

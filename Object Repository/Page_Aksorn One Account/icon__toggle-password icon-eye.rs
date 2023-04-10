@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon__toggle-password icon-eye</name>
+   <tag></tag>
+   <elementGuidId>083b1439-eec8-4571-9948-407961d80827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>icon.toggle-password.icon-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmRegister']/div[6]/div/div/div/icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>b65e0785-3cdb-4dca-9edd-f79d1c474578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle-password icon-eye</value>
+      <webElementGuid>e9923a6c-7264-48d6-98cb-9ac72aecbb59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmRegister&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-md-6&quot;]/div[@class=&quot;input-data w-100&quot;]/div[@class=&quot;input-group&quot;]/icon[@class=&quot;toggle-password icon-eye&quot;]</value>
+      <webElementGuid>8498137f-8a2b-44a2-89c7-060593b47021</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmRegister']/div[6]/div/div/div/icon</value>
+      <webElementGuid>3200b743-ed8a-48f6-83a4-16d276b90649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//icon</value>
+      <webElementGuid>827011d9-926b-4191-ac0b-64689a400222</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__checkbox-icon fuse-ripple-ready</name>
+   <tag></tag>
+   <elementGuidId>9fd86031-f515-46c2-8f88-9fb491e351d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkbox-icon.fuse-ripple-ready</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmRegister']/div[10]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e53626c-a9e5-4f8a-aa10-15ee16cc3933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-icon fuse-ripple-ready</value>
+      <webElementGuid>c3fe6377-de4d-46e6-860f-411d69247fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmRegister&quot;)/div[@class=&quot;terms-conditions row align-items-center justify-content-center pt-4 mb-8&quot;]/div[@class=&quot;form-check mr-1 mb-1&quot;]/label[@class=&quot;form-check-label&quot;]/span[@class=&quot;checkbox-icon fuse-ripple-ready&quot;]</value>
+      <webElementGuid>26a6dfb3-44ca-40f8-ae8a-85d1fa62c159</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmRegister']/div[10]/div/label/span</value>
+      <webElementGuid>2f7500fb-5bc6-4c80-a63f-60ae4fbacc95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณาเลือกรายการ'])[1]/following::span[3]</value>
+      <webElementGuid>b958cc84-78e0-4999-b798-b4ac11316748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='โรงเรียน'])[1]/following::span[8]</value>
+      <webElementGuid>f0325e9f-ef52-48c3-88e0-af92ecbab199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='นโยบายคุ้มครองข้อมูลส่วนบุคคล'])[1]/preceding::span[1]</value>
+      <webElementGuid>227a34f7-9ed5-45e8-989e-68237757134b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>73f84513-3f3f-4fec-bf4b-5ce9d4fee061</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

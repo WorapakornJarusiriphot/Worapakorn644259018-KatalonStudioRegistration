@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>fbb8dcd9-0b5a-4220-946b-072884ba4dc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#form-Krungsri_NOW-8b12_Province_SelectedValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='form-Krungsri_NOW-8b12_Province_SelectedValue']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2f52d547-035c-4c5e-8613-fb21f4698eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>242f00a4-4bb9-469b-a104-045e18370cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>form-Krungsri_NOW-8b12_Province_SelectedValue</value>
+      <webElementGuid>ba3b3394-b2eb-4de0-ae0f-07d052aa52bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>form-Krungsri_NOW-8b12.Province.SelectedValue</value>
+      <webElementGuid>69aca7f3-91c9-44a3-9e0d-977b2b44d00a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>จังหวัด*
+กรุงเทพและปริมณฑล
+จังหวัดอื่น ๆ
+</value>
+      <webElementGuid>30b64b67-dad6-4d60-ad0b-f8e11b937544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-Krungsri_NOW-8b12_Province_SelectedValue&quot;)</value>
+      <webElementGuid>b174939c-6e70-44fc-a72c-69b209094398</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='form-Krungsri_NOW-8b12_Province_SelectedValue']</value>
+      <webElementGuid>5fd18cd8-faf8-484f-a77b-91a1c3e643c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-Krungsri_NOW-8b12']/div/div[5]/div/select</value>
+      <webElementGuid>3b162b3e-e549-4b1a-9d34-f8da162e392a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='สมัครเลย'])[1]/following::select[2]</value>
+      <webElementGuid>42585cb5-5b4b-4419-86ee-0404fddd1fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://kcc.gg/PDPA'])[1]/preceding::select[2]</value>
+      <webElementGuid>4e0f2c0b-8f2f-47f1-9bda-7c8ce9d422f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/select</value>
+      <webElementGuid>6adcc295-8d06-4518-969f-b71a13ff7031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'form-Krungsri_NOW-8b12_Province_SelectedValue' and @name = 'form-Krungsri_NOW-8b12.Province.SelectedValue' and (text() = 'จังหวัด*
+กรุงเทพและปริมณฑล
+จังหวัดอื่น ๆ
+' or . = 'จังหวัด*
+กรุงเทพและปริมณฑล
+จังหวัดอื่น ๆ
+')]</value>
+      <webElementGuid>4c760976-566d-4792-b898-645bd2fbdac1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

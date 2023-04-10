@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon__toggle-confirm-password icon-eye</name>
+   <tag></tag>
+   <elementGuidId>ea2adcc3-5fdc-4d43-a00a-d76fb5c83aeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>icon.toggle-confirm-password.icon-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmRegister']/div[6]/div[2]/div/div/icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>243542f6-3f1a-4422-80c0-df21d2785306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle-confirm-password icon-eye</value>
+      <webElementGuid>e3b28933-5271-4899-bc83-810a8b920f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmRegister&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-md-6&quot;]/div[@class=&quot;input-data w-100&quot;]/div[@class=&quot;input-group&quot;]/icon[@class=&quot;toggle-confirm-password icon-eye&quot;]</value>
+      <webElementGuid>d9804492-e289-4a23-9377-954aa8f5fc15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmRegister']/div[6]/div[2]/div/div/icon</value>
+      <webElementGuid>e79add2d-4941-438a-aa47-6f0088a6461d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/icon</value>
+      <webElementGuid>d78c3619-e9fb-46a9-b133-b62fbac17d11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

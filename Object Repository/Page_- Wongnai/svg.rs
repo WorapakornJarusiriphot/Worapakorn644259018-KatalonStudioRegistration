@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>7ed0fe4d-704d-47ca-859b-134d81cec5dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.Container-sc-1q9pkme.bEDuRK > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='สมัครสมาชิก'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>aa2abe2c-b69a-4fe8-b4f6-a363d1f34ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>be965112-af0b-431a-8511-b095a7ad6239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>a561c590-fdbb-4901-a9a6-6ca16760cf1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>31fbc0c1-8815-4f0e-9bc6-7b59264f13ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>1b6cb8fe-5495-4f24-aa2f-79598aa1246e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>var(--gray-300)</value>
+      <webElementGuid>9a874fc9-10cb-4726-925f-49be4810af16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;content&quot;]/div[1]/div[@class=&quot;sc-1w7x3ft-0 haqBKz&quot;]/div[@class=&quot;sc-1ijt930-0 kpohkU&quot;]/form[@class=&quot;font-highlight&quot;]/div[@class=&quot;BaseGap-sc-1wadqs8 bOyeoA pt-16 pt-16&quot;]/label[@class=&quot;Container-sc-1q9pkme bEDuRK&quot;]/svg[1]</value>
+      <webElementGuid>57b5eb0f-720e-4b83-8f48-82a7cb539939</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='สมัครสมาชิก'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a0b6112e-e438-4698-a22a-a8e57abd7eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ตัวเลข'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c7370b4a-b498-4fe9-b210-ce954b378a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ฉันอยากรับข่าวสารของวงในทาง email'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>35825726-ab92-4368-98c6-de25a478aaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>943b09b0-1db6-4e93-bc7f-93b1d3611169</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

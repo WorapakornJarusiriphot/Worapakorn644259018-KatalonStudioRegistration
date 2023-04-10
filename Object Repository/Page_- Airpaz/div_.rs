@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>41e1dd15-e220-490f-a4dd-93a451c554d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.picker-input-wrapper.input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div/form/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a3cda58-efbf-43ce-8570-f9939e5784df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>picker-input-wrapper input</value>
+      <webElementGuid>345a157c-7473-40bc-84a8-dab731a4864d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  
+          นาย
+        </value>
+      <webElementGuid>c73ccd8b-eae7-4cf2-bb7e-5c7d19f8a73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;airpaz-desktop-layout&quot;]/div[@class=&quot;signup-container&quot;]/div[@class=&quot;auth-form-wrapper is-flex flex-col items-center&quot;]/div[@class=&quot;signup-form-wrapper panel&quot;]/div[@class=&quot;panel-block is-block is-relative&quot;]/form[@class=&quot;signup-form&quot;]/div[@class=&quot;field input-title&quot;]/div[@class=&quot;control picker has-icons-right is-active is-focused is-borderless&quot;]/div[@class=&quot;picker-input-wrapper input&quot;]</value>
+      <webElementGuid>92554779-9ae0-4a04-bbce-2abb17961d30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div/form/div/div/div</value>
+      <webElementGuid>d03dd6d3-aa97-4903-81db-d52df89dca31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='คำนำหน้า'])[1]/following::div[2]</value>
+      <webElementGuid>d8038384-42c5-4845-8232-140b73b193be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='สมัครสมาชิก'])[1]/following::div[3]</value>
+      <webElementGuid>d21ed1ea-ed41-4399-9117-f4db4bfed593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='นาย'])[2]/preceding::div[2]</value>
+      <webElementGuid>a31d2a5d-8790-4306-9104-105c5a99ac8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>7949e8ea-4928-48d7-8984-b4e8eb983864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  
+          นาย
+        ' or . = '  
+          นาย
+        ')]</value>
+      <webElementGuid>e1e274c5-05ca-4a87-b635-4d6cceb14d09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

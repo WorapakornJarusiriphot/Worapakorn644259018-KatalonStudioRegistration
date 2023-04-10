@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DatePickerPizza</name>
+   <tag></tag>
+   <elementGuidId>11b59649-a117-4db8-9d48-1b6657640cc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#P309202936</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#P309202936</value>
+      <webElementGuid>18a1ec9e-eafd-41ca-b519-65326dcb46ef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
